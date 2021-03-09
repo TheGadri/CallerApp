@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860762492472",
+    "firebase_url": "https://callerapp-ef0fe.firebaseio.com",
+    "project_id": "callerapp-ef0fe",
+    "storage_bucket": "callerapp-ef0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860762492472:android:c9518ca47bc0c063bd20cd",
+        "android_client_info": {
+          "package_name": "com.kinggadri.caller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860762492472-hlputbiu147m5f5kiikpailm89lejvec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjAEblt-vNZwI1KjeuHaqOAW1OhYwpups"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860762492472-hlputbiu147m5f5kiikpailm89lejvec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860762492472-3ucop8q30oa532dm2crmh4oid6dp66mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinggadri.callerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

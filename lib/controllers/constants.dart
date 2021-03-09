@@ -1,0 +1,2 @@
+const String serverToken =
+    'AAAAyGlxTjg:APA91bHX2WIhO4pq-DofF14qSrYpDbCK2jTeWxDHyYBDNa9kQ7Bbuqlcpg30wCKdC_xXbU2uBQqvOOjK2O4bgR9aOBOHuNfmdx4IW7WmYdwj1YQSvGwmmBI2yIAdEvCHb_-_tBlJJTKC';

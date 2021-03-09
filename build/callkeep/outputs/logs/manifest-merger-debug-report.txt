@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:2:70-96
+		INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:4:5-69
+	android:name
+		ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:4:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml:5:22-72
+uses-sdk
+INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kinggadri/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/callkeep-0.2.0/android/src/main/AndroidManifest.xml
